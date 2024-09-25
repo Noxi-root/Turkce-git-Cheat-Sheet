@@ -1,4 +1,3 @@
-
 [![translate](https://img.shields.io/badge/For_English_CLICK_Here-English_Click_here?style=flat-square&logo=googletranslate&labelColor=white&color=blue)](https://github-com.translate.goog/Noxi-root/Turkce-git-Cheat-Sheet?_x_tr_sl=tr&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
 
 <hr>
@@ -6,6 +5,14 @@
 	<img alt="Git" src="img/git-logo.png" height="190" width="455">
 </p>
 <hr>
+
+>❓ Yardım almak için **__Discord__** üzerinden ulaşabilirsiniz: **n_oxxi**
+<br></br>
+>⭐ C'nin neredeyse tüm önemli konularını ele almaya çalıştım bu rehber size yardımcı olduysa bana destek olmak için `Star` butonuna tıklamanız yeterlidir.
+<br></br>
+>😊 Arkadaşlarınıza **__PAYLAŞMAKTAN__** çekinmeyin
+
+---
 
 <h1 align="center"> Git ve Git Flow Cheat Sheet </h1>
 
