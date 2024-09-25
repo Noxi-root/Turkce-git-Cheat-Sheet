@@ -1,4 +1,3 @@
-===============
 <hr>
 <p align="center">
 	<img alt="Git" src="img/git-logo.png" height="190" width="455">
