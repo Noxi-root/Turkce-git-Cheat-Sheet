@@ -4,9 +4,9 @@
 </p>
 <hr>
 
-<h1 align="center"> Git ve Git Flow Cheat Sheet </h1>
-
 [![translate](https://img.shields.io/badge/For_English_CLICK_Here-English_Click_here?style=flat-square&logo=googletranslate&labelColor=white&color=blue)](https://github-com.translate.goog/Noxi-root/Turkce-git-Cheat-Sheet?_x_tr_sl=tr&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)
+
+<h1 align="center"> Git ve Git Flow Cheat Sheet </h1>
 
 ### Index
 * [Kurulum](#kurulum)
