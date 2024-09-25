@@ -14,7 +14,7 @@
 
 ---
 
-<h1 align="center"> Git ve Git Flow Cheat Sheet </h1>
+<h1 align="center"> git ve git Flow Cheat Sheet </h1>
 
 ### Index
 * [Kurulum](#kurulum)
