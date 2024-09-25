@@ -8,7 +8,7 @@
 
 >❓ Yardım almak için **__Discord__** üzerinden ulaşabilirsiniz: **n_oxxi**
 <br></br>
->⭐ git'nin neredeyse tüm önemli konularını ele almaya çalıştım bu rehber size yardımcı olduysa bana destek olmak için `Star` butonuna tıklamanız yeterlidir.
+>⭐ git'in neredeyse tüm önemli konularını ele almaya çalıştım bu rehber size yardımcı olduysa bana destek olmak için `Star` butonuna tıklamanız yeterlidir.
 <br></br>
 >😊 Arkadaşlarınıza **__PAYLAŞMAKTAN__** çekinmeyin
 
