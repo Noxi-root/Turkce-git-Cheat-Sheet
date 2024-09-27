@@ -604,21 +604,4 @@ $ git flow hotfix start VERSION [BASENAME]
 git flow hotfix finish VERSION
 ```
 
-<hr>
-
-### Komutlar (Commands)
-<p align="center">
-	<img alt="Git" src="../Img/git-flow-commands.png" height="270" width="460">
-</p>
-
-<hr>
-
-### Git flow şeması
-
-<p align="center">
-	<img alt="Git" src="../Img/git-flow-commands-without-flow.png">
-</p>
-
-<hr>
-
 ## Go to [Index](#index)
