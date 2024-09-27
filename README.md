@@ -604,4 +604,4 @@ $ git flow hotfix start VERSION [BASENAME]
 git flow hotfix finish VERSION
 ```
 
-## Go to [Index](#index)
+## Index'e gitmek için [*TIKLAYIN*](#index)
